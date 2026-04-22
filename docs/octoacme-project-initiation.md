@@ -41,3 +41,8 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Related docs / next phase
+- Next: [Project Planning](./octoacme-project-planning.md)
+- Role ownership: [Roles and Personas](./octoacme-roles-and-personas.md)
+- Reusable formats: [Templates & Checklists Pack](./octoacme-project-management-templates.md)

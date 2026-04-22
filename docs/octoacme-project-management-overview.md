@@ -3,6 +3,9 @@
 ## Purpose
 Provide a concise, shareable introduction to how OctoAcme runs projects so new teammates can quickly understand our approach, roles, and key artifacts.
 
+## When to use
+Read this first before entering phase-specific process docs.
+
 ## Scope
 Applies to all cross-functional projects that deliver product features, services, or integrations.
 
@@ -29,11 +32,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
-1. Initiation: problem statement, stakeholders, high-level timeline.
-2. Planning: scope, resources, milestones, dependencies.
-3. Execution: build, test, review, iterate.
-4. Release: deploy, verify, announce.
-5. Close & Retrospective: capture learnings and next steps.
+1. [Initiation](./octoacme-project-initiation.md): problem statement, stakeholders, high-level timeline.
+2. [Planning](./octoacme-project-planning.md): scope, resources, milestones, dependencies.
+3. [Execution](./octoacme-execution-and-tracking.md): build, test, review, iterate.
+4. [Release](./octoacme-release-and-deployment.md): deploy, verify, announce.
+5. [Close & Retrospective](./octoacme-retrospective-and-continuous-improvement.md): capture learnings and next steps.
 
 ## Communication Cadence
 - Weekly sync between PM + PdM
@@ -43,4 +46,7 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
-- Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use [Roles and Personas](./octoacme-roles-and-personas.md) to confirm ownership and collaboration expectations.
+- Use the [Templates & Checklists Pack](./octoacme-project-management-templates.md) for repeatable artifacts and phase handoffs.
+- Use [Risk Management & Communication](./octoacme-risks-and-communication.md) throughout all phases.
+- Return to the [documentation index](./README.md) for full navigation.

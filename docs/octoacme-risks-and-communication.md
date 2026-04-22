@@ -3,6 +3,9 @@
 ## Purpose
 Explain how to identify, manage, and communicate risks and dependencies.
 
+## When to use
+Use across all lifecycle phases to keep risks, blockers, and stakeholder updates current.
+
 ## Risk Register
 Maintain a simple table with:
 - ID
@@ -40,3 +43,16 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Risk & Communication Checklist
+- [ ] Risk register owners assigned for active risks
+- [ ] Weekly status update sent from agreed source of truth
+- [ ] Open blockers include escalation owner and next action
+- [ ] Security-impacting risks routed to Security on-call
+
+## Related docs
+- [Project Planning](./octoacme-project-planning.md)
+- [Execution & Tracking](./octoacme-execution-and-tracking.md)
+- [Release & Deployment Guide](./octoacme-release-and-deployment.md)
+- [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Templates & Checklists Pack](./octoacme-project-management-templates.md)

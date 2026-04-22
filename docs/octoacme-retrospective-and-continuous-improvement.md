@@ -3,7 +3,7 @@
 ## Purpose
 Capture learnings and convert them into actionable improvements.
 
-## When
+## When to use
 After each sprint, release, or important milestone. Also after incidents.
 
 ## Structure
@@ -31,3 +31,15 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## Retrospective Checklist
+- [ ] Invite contributors from PM, Product, Engineering, and QA
+- [ ] Review previous retrospective actions before adding new ones
+- [ ] Record owners and due dates for each new action
+- [ ] Publish outcomes and link follow-up issues/tasks
+
+## Related docs / phase links
+- Previous: [Release & Deployment Guide](./octoacme-release-and-deployment.md)
+- Restart lifecycle: [Project Initiation Guide](./octoacme-project-initiation.md)
+- Cross-cutting: [Risk Management & Communication](./octoacme-risks-and-communication.md)
+- Reusable formats: [Templates & Checklists Pack](./octoacme-project-management-templates.md)

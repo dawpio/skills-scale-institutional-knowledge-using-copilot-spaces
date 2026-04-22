@@ -3,6 +3,9 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+## When to use
+Use once execution work is accepted and ready for staging/production deployment.
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements
@@ -36,3 +39,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related docs / phase links
+- Previous: [Execution & Tracking](./octoacme-execution-and-tracking.md)
+- Next: [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
+- Cross-cutting: [Risk Management & Communication](./octoacme-risks-and-communication.md)
+- Reusable formats: [Templates & Checklists Pack](./octoacme-project-management-templates.md)
