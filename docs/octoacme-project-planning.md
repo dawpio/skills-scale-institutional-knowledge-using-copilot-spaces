@@ -3,6 +3,9 @@
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
+## When to use
+After initiation approval and before execution work begins.
+
 ## Objectives
 - Break work into shippable increments
 - Identify dependencies and risks
@@ -41,3 +44,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Related docs / phase links
+- Previous: [Project Initiation Guide](./octoacme-project-initiation.md)
+- Next: [Execution & Tracking](./octoacme-execution-and-tracking.md)
+- Cross-cutting: [Risk Management & Communication](./octoacme-risks-and-communication.md)
+- Reusable formats: [Templates & Checklists Pack](./octoacme-project-management-templates.md)

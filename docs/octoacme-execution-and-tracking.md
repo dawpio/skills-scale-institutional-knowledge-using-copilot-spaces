@@ -3,6 +3,9 @@
 ## Purpose
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
+## When to use
+Use during active delivery once planning outputs are approved.
+
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
@@ -38,3 +41,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related docs / phase links
+- Previous: [Project Planning](./octoacme-project-planning.md)
+- Next: [Release & Deployment Guide](./octoacme-release-and-deployment.md)
+- Cross-cutting: [Risk Management & Communication](./octoacme-risks-and-communication.md)
+- Reusable formats: [Templates & Checklists Pack](./octoacme-project-management-templates.md)
